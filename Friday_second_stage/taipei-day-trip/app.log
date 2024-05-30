@@ -1,0 +1,43 @@
+2024-05-29 17:47:10,711 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'transport' ====
+2024-05-29 17:47:10,711 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'transport' ====
+2024-05-29 17:47:10,711 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'transport' ====
+2024-05-29 17:47:10,711 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'transport' ====
+2024-05-29 17:53:34,620 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 17:53:34,620 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 17:53:34,620 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 17:53:34,620 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:09:17,300 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:09:17,300 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:09:17,301 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:09:17,301 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:16:25,907 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:16:25,907 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:16:25,908 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:16:25,908 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:19:44,517 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:19:44,517 - my_logger - ERROR - ==== 來自def get_cursor的Error : yield停止中, 內部出問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:19:44,518 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 19:19:44,518 - my_logger - ERROR - ==== 來自def insert_data的Error : db_conn.cursor()本身出問題 or 取得raise問題 : 'NoneType' object is not subscriptable ====
+2024-05-29 20:19:26,429 - my_logger - ERROR - ==== 來自def main的Error : db已經有資料無法再加一次 ====
+2024-05-29 20:19:26,429 - my_logger - ERROR - ==== 來自def main的Error : db已經有資料無法再加一次 ====
+2024-05-30 00:26:35,794 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()本身出問題 : 500: {'error': True, 'message': '伺服器內部錯誤'} ====
+2024-05-30 00:27:00,163 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()本身出問題 : 500: {'error': True, 'message': '伺服器內部錯誤'} ====
+2024-05-30 01:27:56,939 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()本身出問題 : 500: {'error': True, 'message': '伺服器內部錯誤'} ====
+2024-05-30 01:28:04,852 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()本身出問題 : 500: {'error': True, 'message': '伺服器內部錯誤'} ====
+2024-05-30 05:17:05,298 - my_logger - ERROR - ==== 來自def main的Error : db已經有資料無法再加一次 ====
+2024-05-30 05:46:46,019 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()本身出問題 : 500: {'error': True, 'message': '伺服器內部錯誤'} ====
+2024-05-30 05:48:04,602 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()本身出問題 : 500: {'error': True, 'message': '伺服器內部錯誤'} ====
+2024-05-30 05:49:08,670 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()本身出問題 : 500: {'error': True, 'message': '伺服器內部錯誤'} ====
+2024-05-30 06:00:02,417 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : 500: {'error': True, 'message': '無資料'} ====
+2024-05-30 06:02:02,259 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : 500: {'error': True, 'message': '無資料'} ====
+2024-05-30 06:03:13,166 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : '無資料' is not a valid HTTPStatus ====
+2024-05-30 06:03:44,596 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : exceptions must derive from BaseException ====
+2024-05-30 06:13:08,460 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : 404: {'error': True, 'message': '無資料'} ====
+2024-05-30 06:14:18,483 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : 404: {'error': True, 'message': '無資料'} ====
+2024-05-30 14:24:48,146 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : Could not process parameters: int(2), it must be of type list, tuple or dict ====
+2024-05-30 14:27:36,536 - my_logger - ERROR - ==== 來自@app.get('api/attractions')的Error : db_conn.cursor()內部出問題 : 404: {'error': True, 'message': '無資料'} ====
+2024-05-30 20:18:44,862 - my_logger - DEBUG - 成功connect_db
+2024-05-30 20:18:54,450 - my_logger - DEBUG - 成功connect_db
+2024-05-30 20:19:02,269 - my_logger - DEBUG - 成功connect_db
+2024-05-30 23:21:56,267 - my_logger - DEBUG - 成功connect_db
+2024-05-30 23:22:08,394 - my_logger - DEBUG - 成功connect_db
